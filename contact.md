@@ -1,12 +1,24 @@
 ---
-title: Contact Us
+title: Contact Me
 layout: page
 ---
 
-Have questions about the repository, or how to contribute? Any suggestions for how to 
-  improve the site or a feature you'd like to add? You're welcome to 
-  <a target="_blank" href="https://github.com/rochester-rcl/rochester-rcl.github.io/issues/new">open a ticket</a>.
+# Let's Connect
 
-Are you having trouble customizing the site or working through the tutorial and need some
-  personalized help? Or maybe you would you like to do something similar at your own
-  institution? You're welcome to <a href="mailto:ssiddiqui@library.rochester.edu">email us</a> at any time. 
+I am always open to discussing new research opportunities, collaborations, and engineering challenges. 
+I encourage you to reach out directly using the methods below.
+
+## Send me a message
+
+<div style="margin-top: 20px; font-size: 1.1em;">
+
+<p><strong><i class="fa fa-envelope" aria-hidden="true"></i> Email </strong></p>
+<p style="margin-left: 20px; font-weight: bold;">
+    <a href="mailto:Reecejones2909@gmail.com">Reecejones2909@gmail.com</a>
+</p>
+
+<p><strong><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn Profile</strong></p>
+<p style="margin-left: 20px; font-weight: bold;">
+    <a href="[https://www.linkedin.com/in/jonesreece]">https://www.linkedin.com/in/jonesreece</a>
+</p>
+</div>

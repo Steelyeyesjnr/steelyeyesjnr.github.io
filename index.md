@@ -1,23 +1,22 @@
 ---
 layout: home
-excerpt: "About Me..."
+excerpt: "Aerospace Engineer | Always learning, always experimenting!"
 ---
+![Banner of Myself and peers]({{ site.baseurl }} images/drone-project.jpg)
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
+## Hello!
 
-## About this Site
-
-This project is a slight customization based off of some great work by 
-  [NC State University Libraries](https://www.lib.ncsu.edu/).
-  The original project, called [`jekyll academic`](https://ncsu-libraries.github.io/jekyll-academic-docs/)
-  has its own [github repository](https://github.com/NCSU-Libraries/jekyll-academic)
-  and [workshop documentation](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/). 
+I am currently persuing a BEng in __Aerospace Engineering with Space Technology__ at the __University of Hertfordshire__. At this time, I am studying abroad at __Yonsei University__ in South Korea, getting an insight into __Artifitial Intelligence and Machine Learning__.
 
 
-## Creating Your Own
+## Key Areas of Expertise
 
-To see a step-by-step guide to build your own site, go to the [RESEARCH](/research) section. 
-  There you'll find a basic [guide](/blog/getting-started) that will help you
-  create your new site.
-  
+* __Engineering Analysis:__ Computational Fluid Dynamics (CFD), Finite Element Analysis (FEA), and Structural Design.
+* __Project Leadership:__ Managing the full product lifecycle, from concept and design (CAD/CATIA) to manufacturing and testing.
+* __Interdisciplinary Focus:__ Expanding knowledge in Distributed Learning and Inference (AI).
+
+
+## Outide the Lab
+
+My approach to problem-solving and learning doesn't stop with engineering! I'm an enthusiastic reader and love digging into anything that requires strategy. I am also an avid traveler and explorer. My passion for seeing new places allows me to continually expand my global knowledge and cultural awareness. I stay physically active through sports, believing a healthy lifestyle is key.
+

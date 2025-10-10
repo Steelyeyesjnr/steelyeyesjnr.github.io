@@ -1,69 +1,84 @@
 ---
-title: Resume
+title: Resumes
 layout: resume
+--- 
+
+<a href="/assets/files/CV-Reece-Jones.pdf" class="button">Download Printable CV (PDF)</a>
+
 ---
+## Summary
 
-<b> Use this template to share your accomplishments </b>  
-
-## Currently
-
-Current Position Description
+I am a highly motivated Aerospace Engineering student with a strong work ethic. I am skilled in project leadership, Computational Fluid Dynamics (CFD), and Computer-Aided Design (CAD).Through group projects at the University of Hertfordshire, I have developed a professional approach and proficiency in the full product lifecycle from design to testing. I am currently gaining an international perspective on engineering and technology while studying abroad at Yonsei University.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`Sept 2022 - May 2027`
+<img src="/images/uh-logo.png" alt="University of Hertfordshire Logo" style="height: 25px; vertical-align: middle; margin-right: 10px;">
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+__University of Hertfordshire__
+<br>
+BEng in Aerospace Engineering with Space Technology
+- Current GPA: 3.5/4.0
+- Relevant Coursework: Control and Autopilot Systems, Fluids and Aerodynamics, Structural Design and CAE.
 
-## Awards
+`Aug 2025 - July 2026`
+<img src="/images/yonsei-logo.png" alt="Yonsei University Logo" style="height: 25px; vertical-align: middle; margin-right: 10px;"> 
 
-`2012`
-Name of Award, Organization 
+__Yonsei University, Seoul, South Korea__
+<br>
+Exchange Student, Department of AI
+- Relevant Coursework: Introduction to Computing Research, Distributed Learning and Inference, Discrete Mathematics.
 
-## Publications
+## Project Experience
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__Lightweight Quadcopter UAV Structural Design and Validation__
+`Jan 2025 - July 2025`  
+<br>Simulations Lead | University of Hertfordshire
 
-### Journals
+Focused on structural design, validation, and FEA application for a lightweight CFRP frame. Supported CNC and Water Jet manufacturing.
 
-`1994`
-Article Title, Journal Title
+__Key Skills__: FEA, CAD, Structural Analysis, CNC Machining.
 
-`1994`
-Article Title, Journal Title
+---
 
-### Books
+__Airbrake Design for Altitude Control__
+`Nov 2024 - Mar 2025`  
+<br>Project Lead | UH Rocketry
 
-`1994`
-Book Title, Journal Title
+Explored feasibility of deployable airbrake systems for precise apogee regulation in high-altitude rocketry.
 
-`1994`
-Book Title, Journal Title
+__Key Skills__: Computational Fluid Dynamics (CFD), Active Flight Control, Project Planning, Researching
 
+---
 
-## Presentations
+__Develop Aerofoil for Shortest Take-Off__ 
+`Oct 2024 - Jan 2025`  
+<br>Project Lead / CFD Engineer | University of Hertfordshire 
 
-`1994`
-Presentation Title, Conference
+Led full product lifecycle, utilizing Star CCM+ and XFLR5 for viscous/inviscid CFD analysis and wind tunnel operations.
 
+__Key Skills__: CFD, Group Leadership, Wind Tunnel Analysis, Manufacturing, 3D Printing, CAD, Engineering Drawings
 
-## Employment History
+---
 
-`Current`
-__Current Job Title__, Current Employer 
+__Manufacture a Mars Rover__
+`Jan 2024 - Apr 2024`  
+<br>Manufacturing Engineer | University of Hertforshire
 
-- Task
-- Task
+Extended CAD knowledge (CATIA) for 3D printing and Laser Cutting. Applied basic coding to Arduino hardware.
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+__Key Skills__: CAD/CATIA, Arduino, 3D Printing, Laser Cutting, Bill of Material Creation
 
-- Task
-- Task
+---
+
+__Ground Effect Vehicle (GEV) and Launcher__
+`Oct 2023 - Jan 2024` 
+<br>Design Engineer | University of Hertfordshire 
+
+Conducted extensive research and created precise engineering drawings and budget tracking.
+
+__Key Skills__: Research Skills, Engineering Drawing, Budget Management.
+
 
 
 
