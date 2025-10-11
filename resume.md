@@ -55,7 +55,7 @@ __Develop Aerofoil for Shortest Take-Off__
 `Oct 2024 - Jan 2025`  
 <br>Project Lead / CFD Engineer | University of Hertfordshire 
 
-Led full product lifecycle, utilizing Star CCM+ and XFLR5 for viscous/inviscid CFD analysis and wind tunnel operations.
+Led full product lifecycle, utilising Star CCM+ and XFLR5 for viscous/inviscid CFD analysis and wind tunnel operations.
 
 __Key Skills__: CFD, Group Leadership, Wind Tunnel Analysis, Manufacturing, 3D Printing, CAD, Engineering Drawings
 

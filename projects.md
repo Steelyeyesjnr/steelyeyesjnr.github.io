@@ -41,7 +41,7 @@ A comprehensive project focused on designing, manufacturing, and validating the 
 | **Key Skills** | CFD, Group Leadership, Wind Tunnel Analysis, Manufacturing, Project Management |
 
 ### Project Summary
-Led a team through the full product lifecycle to design and test an aerofoil optimized for the shortest take-off distance.
+Led a team through the full product lifecycle to design and test an aerofoil optimised for the shortest take-off distance.
 
 *  Developed an understanding of viscous and inviscid CFD using **Star CCM+** and **XFLR5**.
 *  Operated a **wind tunnel** and managed time efficiently using a **Gantt chart**.
@@ -71,7 +71,7 @@ Led a team through the full product lifecycle to design and test an aerofoil opt
 This project was primarily a research and feasibility study for a deployable airbrake system, establishing foundational knowledge in **active flight control** for high-altitude rockets.
 
 * **Key Outcome:** Research defined the technical requirements and simulation methodology needed for future design and testing phases.
-* **Tools Used:** Utilized **MATLAB** and **OpenRocket** for preliminary modeling and simulation.
+* **Tools Used:** Utilised **MATLAB** and **OpenRocket** for preliminary modeling and simulation.
 
 <hr>
 
