@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: page
 title: Projects
 ---
 
@@ -142,4 +142,3 @@ This personal website represents a academic project to master **Git/GitHub workf
 *  Successfully implemented a complete **Git/GitHub Pages workflow**, including managing dependencies and deploying a functional site.
 *  Created a professional, responsive academic website to showcase engineering work.
 
----
