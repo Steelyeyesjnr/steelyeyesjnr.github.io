@@ -1,5 +1,5 @@
 ---
-title: Resumes
+title: Resume
 layout: resume
 --- 
 
