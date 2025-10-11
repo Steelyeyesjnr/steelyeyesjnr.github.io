@@ -3,7 +3,7 @@ title: Resumes
 layout: resume
 --- 
 
-<a href="/assets/files/CV-Reece-Jones.pdf" class="button">Download Printable CV (PDF)</a>
+<a href="/assets/files/CV-Reece-Jones.pdf" style="display: inline-block; padding: 10px 15px; background-color: #1A4B95; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 20px;">Download Printable CV (PDF)</a>
 
 ---
 ## Summary
