@@ -19,6 +19,6 @@ I encourage you to reach out directly using the methods below.
 
 <p><strong><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn Profile</strong></p>
 <p style="margin-left: 20px; font-weight: bold;">
-    <a href="[https://www.linkedin.com/in/jonesreece]">https://www.linkedin.com/in/jonesreece</a>
+    <a href="https://www.linkedin.com/in/jonesreece">https://www.linkedin.com/in/jonesreece</a>
 </p>
 </div>
