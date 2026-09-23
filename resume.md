@@ -3,12 +3,12 @@ title: Resume
 layout: resume
 --- 
 
-<a href="/assets/files/CV-Reece-Jones.pdf" style="display: inline-block; padding: 10px 15px; background-color: #1A4B95; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 20px;">Download Printable CV (PDF)</a>
+<a href="/assets/files/Reece_Jones_2026.pdf" style="display: inline-block; padding: 10px 15px; background-color: #1A4B95; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; margin-bottom: 20px;">Download Printable CV (PDF)</a>
 
 ---
 ## Summary
 
-I am a highly motivated Aerospace Engineering student with a strong work ethic. I am skilled in project leadership, Computational Fluid Dynamics (CFD), and Computer-Aided Design (CAD).Through group projects at the University of Hertfordshire, I have developed a professional approach and proficiency in the full product lifecycle from design to testing. I am currently gaining an international perspective on engineering and technology while studying abroad at Yonsei University.
+I am a highly motivated Aerospace Engineering student with a strong work ethic. I am skilled in project leadership, Computational Fluid Dynamics (CFD), and Computer-Aided Design (CAD).Through group projects at the University of Hertfordshire, I have developed a professional approach and proficiency in the full product lifecycle from design to testing. I am currently applying these skills to my final-year research.
 
 ## Education
 
@@ -30,6 +30,18 @@ Exchange Student, Department of AI
 - Relevant Coursework: Introduction to Computing Research, Distributed Learning and Inference, Discrete Mathematics.
 
 ## Project Experience
+
+---
+
+__Hypersonic Re-entry Capsule Optimisation (Final Year Project)__
+`Sep 2026 - Present`  
+<br>Undergraduate Researcher | University of Hertfordshire
+
+Developing a machine learning surrogate model and conducting Mach 7 CFD simulations in ANSYS Fluent to optimise hypersonic geometries, balancing aerodynamic drag and stagnation heating. 
+
+__Key Skills__: CFD (ANSYS Fluent), Machine Learning, Python, Aerodynamic Optimisation, Wind Tunnel Testing
+
+---
 
 __Lightweight Quadcopter UAV Structural Design and Validation__
 `Jan 2025 - July 2025`  
